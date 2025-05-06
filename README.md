@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Kai</h1>
-# 💫 About Me:
+
 🔭 I’m currently learning NextJs<br>💬 Ask me about Reactjs,, state management, and component<br>🌱 I’m also exploring TypeScript to write more robust<br>📫 You can reach me https://www.facebook.com/whoiski.17
 
 <h2>🚀 Languages and Tools I Use</h2>
