@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Kai</h1>
-<p>Hello World, I'm a Software engineer.</p>
+# 💫 About Me:
+🔭 I’m currently learning NextJs<br>💬 Ask me about Reactjs,, state management, and component<br>🌱 I’m also exploring TypeScript to write more robust<br>📫 You can reach me https://www.facebook.com/whoiski.17
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
@@ -21,3 +23,7 @@
 <ul>
 <li><a target="_blank" href=""></a></li>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaichet" alt="khaichet" /></a></p>
+
+
+
+
